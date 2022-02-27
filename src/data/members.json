@@ -2,12 +2,12 @@
     {
         "title": "xenofon kourtzis",
         "url": "",
-        "feed": ""
+        "feed": null
     },
     {
         "title": "fanis dimitriadis",
         "url": "",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "feed": null
     },
     {
         "title": "konstantinos metaxas",
@@ -19,5 +19,11 @@
         "url": "",
         "feed": null
     },
+    {
+         "title": "Arsenis aulonitis",
+        "url": "",
+        "feed": null
+    },
+    
     
 ]
