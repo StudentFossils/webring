@@ -1,29 +1,22 @@
 [
     {
-        "title": "xenofon kourtzis",
+        "title": "Xenofon Kourtzis",
         "url": "https://p15kour.github.io/online-cv/",
         "feed": null
     },
     {
-        "title": "fanis dimitriadis",
+        "title": "Konstantinos Metaxas",
+        "url": "",
+        "feed": null
+    },
+    {
+         "title": "Arsenis Aulonitis",
+        "url": "",
+        "feed": null
+    },
+    {
+        "title": "Fanis Dimitriadis",
         "url": "https://fanisdimitriadis.github.io/online-cv/",
         "feed": null
-    },
-    {
-        "title": "konstantinos metaxas",
-        "url": "",
-        "feed": null
-    },
-    {
-        "title": "Arsenis aulonitis",
-        "url": "",
-        "feed": null
-    },
-    {
-         "title": "Arsenis aulonitis",
-        "url": "",
-        "feed": null
-    },
-    
-    
+    }    
 ]
