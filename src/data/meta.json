@@ -1,14 +1,14 @@
 {
     "title": "StudentFossils",
-    "description": "",
+    "description": "Trying to graduate with style",
     "image": "fossils.jpg",
     "url": "",
     "repo": "https://github.com/StudentFossils/webring",
     "admins": [
         {
-            "name": "fanis dimitriadis",
+            "name": "Fanis Dimitriadis",
             "url": "https://github.com/fanisdimitriadis"
-            "name": "Xenofon kourtzis",
+            "name": "Xenofon Kourtzis",
             "url": "https://github.com/p15kour"
         }
     ]
