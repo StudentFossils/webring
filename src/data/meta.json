@@ -2,7 +2,7 @@
     "title": "StudentFossils",
     "description": "Trying to graduate with style",
     "image": "fossils.jpg",
-    "url": "",
+    "url": "https://student-fossils.netlify.app/",
     "repo": "https://github.com/StudentFossils/webring",
     "admins": [
         {  
