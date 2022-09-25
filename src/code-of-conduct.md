@@ -2,9 +2,24 @@
 layout: page
 title: 'Code of Conduct'
 ---
+| Name | RN | Role | Github Profile Link | Email |
+| --- | --- | --- | --- | --- |
+| Xenofon Kourtzis | 2015119 | Admin | [Git Link](https://github.com/P15KOUR) | p15kour@ionio.gr |
+| Konstantinos Metaxas | 2015146 | Admin | [Git Link](https://github.com/deadoralive1908) | p15meta@ionio.gr |
+| Arsenis Aulonitis | 2015197 | Admin | [Git Link](https://github.com/arse21) | p15avlo@ionio.gr |
+| Fanis Dimitriadis | 2016132 | Admin | [Git Link](https://github.com/p16dimi) | p16dimi@ionio.gr |
 
-# Code of Conduct
+# Code of Conduc:
 
-Rules for being in this webring.
+### Rules for being epic:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+- Be cool!
+- Be awesome!
+- Be kind to everyone!
+
+### Things that will get you out:
+- Bad language.
+- Long period of inactivity.
+- Copying without source.
+
+# [Return to Student Fossils' Home Page](https://student-fossils.netlify.app/)
