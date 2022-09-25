@@ -1,6 +1,6 @@
 read
 
-# Welcome to Student Fossils organization's respository
+# Welcome to Student Fossils webring!!!
 
 <div align="center">
 
