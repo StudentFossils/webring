@@ -3,7 +3,7 @@ layout: page
 title: 'Code of Conduct'
 ---
 
-# Code of Conduc:
+# Code of Conduct:
 
 ### Rules for being epic:
 
