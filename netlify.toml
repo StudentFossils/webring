@@ -26,5 +26,5 @@
 [[redirects]]
     from = "/random"
     to = "/.netlify/functions/random"
-    status = 301
+    status = 301 
     force = true
