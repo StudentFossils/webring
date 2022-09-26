@@ -23,13 +23,12 @@ body {
     &__primary {
         flex: 1 0 auto;
         padding: 1rem;
-        background: linear-gradient(124deg,#ff2400,#e81d1d,#ff4064,#f9fd4bd9,#1de840,#1ddde8,#2b1de8,#dd00f3,#dd00f3);
-        background-size: 140% 800%;
+        background-image: linear-gradient(to right top, #8339c2, #637be6, #6babf2, #a3d3f2, #eff5f7);        background-size: 140% 800%;
         box-shadow: 0 2px 4px 0 rgba(14, 30, 37, 0.12);
         -webkit-animation: rainbow 18s ease infinite;
-        -z-animation: rainbow 18s ease infinite;
-        -o-animation: rainbow 18s ease infinite;
-        animation: rainbow 18s ease infinite
+        -z-animation: rainbow 7s ease infinite;
+        -o-animation: rainbow 8s ease infinite;
+        animation: rainbow 8s ease infinite
     }
 
     &__secondary {
