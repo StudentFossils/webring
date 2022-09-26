@@ -1,4 +1,6 @@
-# Welcome to Student Fossils organization's respository
+read
+
+# Welcome to Student Fossils webring!!!
 
 <div align="center">
 
@@ -13,5 +15,4 @@
 | Fanis Dimitriadis | 2016132 | Admin | [Git Link](https://github.com/p16dimi) | p16dimi@ionio.gr |
 
 ## [Team's Webring](https://studentfossils-webring.netlify.app/)
-
 

@@ -2,12 +2,10 @@
     "title": "StudentFossils",
     "description": "Trying to graduate with style",
     "image": "fossils.jpg",
-    "url": "https://studentfossils-webring.netlify.app",
+    "url": "https://student-fossils.netlify.app/",
     "repo": "https://github.com/StudentFossils/webring",
     "admins": [
-        {
-            "name": "Fanis Dimitriadis",
-            "url": "https://github.com/fanisdimitriadis",
+        {  
             "name": "Xenofon Kourtzis",
             "url": "https://github.com/p15kour"
         }
